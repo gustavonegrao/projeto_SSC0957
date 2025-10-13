@@ -1,0 +1,128 @@
+Tabela não encontrada em: pdfs\inpc_ipca_2020_jul.pdf      na mão
+Tabela não encontrada em: pdfs\inpc_ipca_2012_jan.pdf      na mão
+
+Shape: (12, 3) → 30 arquivos
+   pdfs\inpc_ipca_2020_jan.pdf
+   pdfs\inpc_ipca_2020_fev.pdf
+   pdfs\inpc_ipca_2020_abr.pdf
+   pdfs\inpc_ipca_2019_ago.pdf
+   pdfs\inpc_ipca_2019_set.pdf
+   pdfs\inpc_ipca_2019_out.pdf
+   pdfs\inpc_ipca_2019_nov.pdf
+   pdfs\inpc_ipca_2016_jan.pdf
+   pdfs\inpc_ipca_2016_abr.pdf
+   pdfs\inpc_ipca_2015_abr.pdf
+   pdfs\inpc_ipca_2015_jun.pdf
+   pdfs\inpc_ipca_2015_out.pdf
+   pdfs\inpc_ipca_2014_jan.pdf
+   pdfs\inpc_ipca_2014_fev.pdf
+   pdfs\inpc_ipca_2014_mar.pdf
+   pdfs\inpc_ipca_2014_abr.pdf
+   pdfs\inpc_ipca_2013_fev.pdf
+   pdfs\inpc_ipca_2013_mar.pdf
+   pdfs\inpc_ipca_2013_abr.pdf
+   pdfs\inpc_ipca_2013_maio.pdf
+   pdfs\inpc_ipca_2013_jun.pdf
+   pdfs\inpc_ipca_2013_jul.pdf
+   pdfs\inpc_ipca_2013_ago.pdf
+   pdfs\inpc_ipca_2013_set.pdf
+   pdfs\inpc_ipca_2013_nov.pdf
+   pdfs\inpc_ipca_2013_dez.pdf
+   pdfs\inpc_ipca_2012_maio.pdf
+   pdfs\inpc_ipca_2012_ago.pdf
+   pdfs\inpc_ipca_2012_out.pdf
+   pdfs\inpc_ipca_2012_dez.pdf
+
+Shape: (2, 4) → 15 arquivos                        na mão
+   pdfs\inpc_ipca_2020_mar.pdf
+   pdfs\inpc_ipca_2020_jun.pdf
+   pdfs\inpc_ipca_2019_dez.pdf
+   pdfs\inpc_ipca_2018_jan.pdf
+   pdfs\inpc_ipca_2018_fev.pdf
+   pdfs\inpc_ipca_2018_mar.pdf
+   pdfs\inpc_ipca_2018_maio.pdf
+   pdfs\inpc_ipca_2018_jun.pdf
+   pdfs\inpc_ipca_2018_jul.pdf
+   pdfs\inpc_ipca_2018_ago.pdf
+   pdfs\inpc_ipca_2018_set.pdf
+   pdfs\inpc_ipca_2018_out.pdf
+   pdfs\inpc_ipca_2018_nov.pdf
+   pdfs\inpc_ipca_2018_dez.pdf
+   pdfs\inpc_ipca_2013_out.pdf
+
+Shape: (12, 4) → 40 arquivos
+   pdfs\inpc_ipca_2020_maio.pdf
+   pdfs\inpc_ipca_2019_jan.pdf
+   pdfs\inpc_ipca_2019_fev.pdf
+   pdfs\inpc_ipca_2019_mar.pdf
+   pdfs\inpc_ipca_2019_abr.pdf
+   pdfs\inpc_ipca_2019_maio.pdf
+   pdfs\inpc_ipca_2019_jun.pdf
+   pdfs\inpc_ipca_2019_jul.pdf
+   pdfs\inpc_ipca_2017_jan.pdf
+   pdfs\inpc_ipca_2017_mar.pdf
+   pdfs\inpc_ipca_2017_abr.pdf
+   pdfs\inpc_ipca_2017_maio.pdf
+   pdfs\inpc_ipca_2017_jun.pdf
+   pdfs\inpc_ipca_2017_jul.pdf
+   pdfs\inpc_ipca_2017_ago.pdf
+   pdfs\inpc_ipca_2017_set.pdf
+   pdfs\inpc_ipca_2017_out.pdf
+   pdfs\inpc_ipca_2017_nov.pdf
+   pdfs\inpc_ipca_2017_dez.pdf
+   pdfs\inpc_ipca_2016_mar.pdf
+   pdfs\inpc_ipca_2016_maio.pdf
+   pdfs\inpc_ipca_2016_jul.pdf
+   pdfs\inpc_ipca_2016_ago.pdf
+   pdfs\inpc_ipca_2016_set.pdf
+   pdfs\inpc_ipca_2016_out.pdf
+   pdfs\inpc_ipca_2016_nov.pdf
+   pdfs\inpc_ipca_2016_dez.pdf
+   pdfs\inpc_ipca_2015_jan.pdf
+   pdfs\inpc_ipca_2015_maio.pdf
+   pdfs\inpc_ipca_2015_jul.pdf
+   pdfs\inpc_ipca_2015_ago.pdf
+   pdfs\inpc_ipca_2015_nov.pdf
+   pdfs\inpc_ipca_2014_maio.pdf
+   pdfs\inpc_ipca_2014_jun.pdf
+   pdfs\inpc_ipca_2014_jul.pdf
+   pdfs\inpc_ipca_2014_ago.pdf
+   pdfs\inpc_ipca_2014_set.pdf
+   pdfs\inpc_ipca_2014_out.pdf
+   pdfs\inpc_ipca_2014_nov.pdf
+   pdfs\inpc_ipca_2012_fev.pdf
+
+Shape: (14, 3) → 5 arquivos
+   pdfs\inpc_ipca_2020_ago.pdf
+   pdfs\inpc_ipca_2020_set.pdf
+   pdfs\inpc_ipca_2020_out.pdf
+   pdfs\inpc_ipca_2020_nov.pdf
+   pdfs\inpc_ipca_2020_dez.pdf
+
+Shape: (3, 4) → 6 arquivos                   na mão
+   pdfs\inpc_ipca_2018_abr.pdf
+   pdfs\inpc_ipca_2016_fev.pdf
+   pdfs\inpc_ipca_2016_jun.pdf
+   pdfs\inpc_ipca_2015_fev.pdf
+   pdfs\inpc_ipca_2015_set.pdf
+   pdfs\inpc_ipca_2015_dez.pdf
+
+Shape: (5, 5) → 1 arquivos
+   pdfs\inpc_ipca_2017_fev.pdf                na mão
+
+Shape: (12, 8) → 1 arquivos
+   pdfs\inpc_ipca_2015_mar.pdf
+
+Shape: (4, 4) → 1 arquivos
+   pdfs\inpc_ipca_2014_dez.pdf                  na mão
+
+Shape: (2, 5) → 6 arquivos
+   pdfs\inpc_ipca_2013_jan.pdf
+   pdfs\inpc_ipca_2012_mar.pdf
+   pdfs\inpc_ipca_2012_abr.pdf
+   pdfs\inpc_ipca_2012_jun.pdf
+   pdfs\inpc_ipca_2012_set.pdf
+   pdfs\inpc_ipca_2012_nov.pdf
+
+Shape: (4, 5) → 1 arquivos                      na mão
+   pdfs\inpc_ipca_2012_jul.pdf
