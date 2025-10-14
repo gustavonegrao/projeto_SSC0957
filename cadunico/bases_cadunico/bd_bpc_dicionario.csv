@@ -1,0 +1,19 @@
+Variáveis;Nome;Fonte
+Cod_Mun;Códido do Município;IBGE
+Mun;Nome do Município;IBGE
+RA;Nome da Região Administrativa;Fundação Seade.
+Referência;Data (mês e ano);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais. Benefício de Prestação Continuada da Assistência Social - BPC
+PCD_BPC;Número de pessoas com decifiência beneficiárias do Benefício de Prestação Continuada (BPC);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais. Benefício de Prestação Continuada da Assistência Social - BPC
+Ido_BPC;Número de pessoas idosas  beneficiárias do BPC;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais. Benefício de Prestação Continuada da Assistência Social - BPC
+Bem_BPC;Número de pessoas beneficiárias do BPC;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais. Benefício de Prestação Continuada da Assistência Social - BPC
+Pop_65_mais;Número de pessoas com 65 anos ou mais;Fundação Seade. Estimativas Populacionais.
+Pop_2021;Número de pessoas;Fundação Seade. Estimativas Populacionais.
+Ido_BPC_Idoso65%;Participação de pessoas idosas beneficiárias do BCP na população de 65 anos ou mais;Fundação Seade.
+BPC_Pop%;Participação de beneficiários do BPC na população;Fundação Seade.
+Map;Legenda do mapa;Fundação Seade.
+MapSeq;Sequência da legenda do mapa;Fundação Seade.
+65_menos_Idoso_BPC;Pessoas de 65 anos ou mais não beneficiárias do BPC;Fundação Seade.
+;;
+;;
+;;
+;;

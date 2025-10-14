@@ -1,0 +1,6 @@
+variavel;tipo;descricao;fonte
+ano;numérico;Ano de referência;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome
+cod_ibge;numérico;"Código do município IBGE (7 dígitos). Quando se refere ao total do Estado de São Paulo, utilizou-se o código ""35"" e ""3500000"" para Municípios não identificados.";IBGE
+pes_rf_ate_meio_sm;numérico;Quantidade de pessoas inscritas no Cadastro Único com rendimento familiar per capita de até 1/2 Salário Mínimo;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome
+pes_insc_cadun;numérico;Pessoas inscritas no Cadastro Único;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome
+perc_rf_ate_meio_sm;numérico;Percentual de pessoas inscritas no Cadastro Único com rendimento familiar per capita de até 1/2 Salário Mínimo (%);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome

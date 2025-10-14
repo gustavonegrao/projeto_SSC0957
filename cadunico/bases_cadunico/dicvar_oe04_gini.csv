@@ -1,0 +1,4 @@
+variavel;tipo;descricao;fonte
+ano;numérico;Ano de referência;IBGE. Pnad-c.
+cod_ibge;numérico;"Código do município IBGE (7 dígitos) e quando se refere ao total do Estado de São Paulo, utilizou-se o código ""35""";IBGE
+ind_gini;numérico;Índice de Gini do rendimento domiciliar per capita;IBGE. Pnad-c.
