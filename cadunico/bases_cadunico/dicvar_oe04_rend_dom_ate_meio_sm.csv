@@ -1,0 +1,6 @@
+variavel;tipo;descricao;fonte
+ano;numérico;Ano de referência;IBGE. Pnad-c.
+regiao_sp;texto;"Região do Estado de São Paulo (RMSP= Região Metropolitana de São Paulo; Interior= Estado de São Paulo exceto RMSP; ESP= Estado de São Paulo)";IBGE. Pnad-c.
+pop_rd_ate_meio_sm;numérico;População com rendimento domiciliar per capita até 1/2 Salário Mínimo;IBGE. Pnad-c.
+pop_pnadc;numérico;População;IBGE. Pnad-c.
+perc_rd_ate_meio_sm;numérico;Percentual da população com rendimento domiciliar per capita até 1/2 Salário Mínimo (%);IBGE. Pnad-c.

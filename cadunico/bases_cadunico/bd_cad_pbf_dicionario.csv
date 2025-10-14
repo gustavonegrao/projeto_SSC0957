@@ -1,0 +1,16 @@
+Variáveis;Nome;Fonte
+Cod_Mun;Códido do Município;IBGE
+Mun;Nome do Município;IBGE
+RA;Nome da Região Administrativa;Fundação Seade.
+Referência;Data (mês e ano);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.
+Pes_PBF;Número de pessoas beneficiárias do Programa Bolsa Família (PBF);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.
+Pes_Cad;Número de pessoas inscritas no CadÚnico;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.
+Fam_Cad;Número de famílias incritas no CadÚnico;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.
+Fam_PBF;Número de famílias beneficiárias do PBF;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.
+Domic_20;Número de domicílios;Fundação Seade. Estimativas Populacionais. IBGE. Censo Demográfico 2022.
+Pop_20;Número de pessoas;Fundação Seade. Estimativas Populacionais. IBGE. Censo Demográfico 2022.
+F_PBF_Domi;Participação das famílias beneficiárias do PBF no total domicílios;Fundação Seade.
+Map;Legenda do mapas;Fundação Seade.
+MapSeq;Sequeência da legenda do mapa;Fundação Seade.
+F_PBF_EP;Número de famílias beneficiárias do PBF com renda familiar per capita mensal até R$ 218 (De março de 2023 em diante);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.
+F_CAD_EP;Número de famílias inscritas no Cadúnico com renda familiar per capita mensal até R$ 218 (De março de 2023 em diante);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.

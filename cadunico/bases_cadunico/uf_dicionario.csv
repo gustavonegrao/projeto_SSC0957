@@ -1,0 +1,8 @@
+Variaveis;Nome;Fonte;Nota
+Cod;Código da Unidade da Federação;IBGE;
+UF;Nome da Unidade da Federação;IBGE;
+CAD;Número de famílias inscritas no CadÚnico;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.;
+PBF;Número de famílias beneficiárias do PBF;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.;O Programa Bolsa Família - PBF esteve vigente até out-21, após esta data entrou em vigor o Programa Auxílio Brasil. Em março de 2023, o Programa Auxílio Brasil foi substituído pelo Programa Bolsa Família. 
+Domic;Número de domicílios;IBGE, PNAD, 2019, 2020, 2022.;
+CAD_Par;Participação do número de famílias inscritas no CadÚnico em relação ao total de domicílios;Fundação Seade.;
+PBF_Par;Participação do número de famílias beneficiárias do PBF em relação ao total de domicílios;Fundação Seade.;O Programa Bolsa Família - PBF esteve vigente até out-21, após esta data entrou em vigor o Programa Auxílio Brasil. Em março de 2023, o Programa Auxílio Brasil foi substituído pelo Programa Bolsa Família. 

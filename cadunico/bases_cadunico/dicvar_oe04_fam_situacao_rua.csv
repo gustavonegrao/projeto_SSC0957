@@ -1,0 +1,4 @@
+variavel;tipo;descricao;fonte
+ano;numérico;Ano de referência;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome
+cod_ibge;numérico;"Código do município IBGE (7 dígitos). Quando se refere ao total do Estado de São Paulo, utilizou-se o código ""35"" e ""3500000"" para Municípios não identificados.";IBGE
+n_fam_rua;numérico;Famílias em situação de rua cadastradas no Cadastro Único;Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome

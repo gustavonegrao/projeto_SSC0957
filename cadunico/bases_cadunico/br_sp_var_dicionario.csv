@@ -1,0 +1,10 @@
+Variáveis;Nome;Fonte;Nota
+Anomes;Data (mês e ano);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.;
+BR_CAD_F;Número de famílias inscritas no CadÚnico (Brasil sem o Estado de São Paulo);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.;
+BR_PBF_F;Número de famílias beneficiárias do PBF (Brasil sem o Estado de São Paulo);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.;O Programa Bolsa Família - PBF esteve vigente até out-21, após esta data entrou em vigor o Programa Auxílio Brasil. Em março de 2023, o Programa Auxílio Brasil foi substituído pelo Programa Bolsa Família. 
+;;;
+BR_PBF_FV;Variação percentual do número de famílias beneficiárias do PBF (Brasil sem o Estado de São Paulo);Fundação Seade.;
+SP_CAD_F;Número de famílias inscritas no CadÚnico (Estado de São Paulo);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.;
+SP_PBF_F;Número de famílias beneficiárias do PBF (Estado de São Paulo);Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Cadastro Único para programas Sociais.;O Programa Bolsa Família - PBF esteve vigente até out-21, após esta data entrou em vigor o Programa Auxílio Brasil. Em março de 2023, o Programa Auxílio Brasil foi substituído pelo Programa Bolsa Família. 
+;;;
+SP_PBF_FV;Variação percentual do número de famílias beneficiárias do PBF (Estado de São Paulo);Fundação Seade.;
